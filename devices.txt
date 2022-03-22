@@ -18,9 +18,3 @@ AP_UBNT
 RT_TP-LINK
 PS4
 PS5
-teclado
-mouse1
-impresora
-teclado
-mouse
-phone
